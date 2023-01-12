@@ -8,13 +8,13 @@
 		<version>3.0.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example</groupId>
+	<groupId>br.com.paulomuniz</groupId>
 	<artifactId>spring-tdd-clean-example</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-tdd-clean-example</name>
 	<description>spring-tdd-clean-example</description>
 	<properties>
-		<java.version>17</java.version>
+		<java.version>11</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
