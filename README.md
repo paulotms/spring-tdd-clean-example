@@ -1,6 +1,6 @@
 # Visão geral
 
-O projeto é uma aplicação back-end feita em  [Spring Boot](https://projects.spring.io/spring-boot) com objetivo de demonstrar e exemplificar a Clean Architecture criada por Uncle Bob, onde foi primeiramente apresentada em um blog em 2012, além do Test Driven Development (TDD) que é uma técnica de desenvolvimento onde o caso de teste é feito antes da implementação da regra de negócio via código.
+O projeto é uma aplicação back-end feita em  [Spring Boot](https://projects.spring.io/spring-boot) com objetivo de demonstrar e exemplificar a Clean Architecture criada por Uncle Bob, onde foi primeiramente apresentada em um blog em 2012. Outra metodologia utilizada foi o Test Driven Development (TDD) que é uma técnica de desenvolvimento onde o caso de teste é feito antes da implementação da regra de negócio via código.
 
 ## Tecnologias
 
